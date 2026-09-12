@@ -1,0 +1,107 @@
+[
+  {
+    "id": 101,
+    "name": "Flour",
+    "slug": "flour",
+    "description": "Atta, rice flour and breakfast mixes",
+    "accent": "#d97706"
+  },
+  {
+    "id": 102,
+    "name": "Rice & Grains",
+    "slug": "rice-grains",
+    "description": "Matta, basmati, ponni and more",
+    "accent": "#b45309"
+  },
+  {
+    "id": 103,
+    "name": "Pulses",
+    "slug": "pulses",
+    "description": "Dals and legumes for everyday cooking",
+    "accent": "#c2410c"
+  },
+  {
+    "id": 104,
+    "name": "Cooking Oil",
+    "slug": "cooking-oil",
+    "description": "Coconut, sunflower and groundnut oils",
+    "accent": "#ca8a04"
+  },
+  {
+    "id": 105,
+    "name": "Spices",
+    "slug": "spices",
+    "description": "Masalas and everyday spices",
+    "accent": "#b91c1c"
+  },
+  {
+    "id": 106,
+    "name": "Dairy",
+    "slug": "dairy",
+    "description": "Milk, curd, butter and ghee",
+    "accent": "#0369a1"
+  },
+  {
+    "id": 107,
+    "name": "Beverages",
+    "slug": "beverages",
+    "description": "Tea, coffee, juices and cool drinks",
+    "accent": "#7c2d12"
+  },
+  {
+    "id": 108,
+    "name": "Snacks",
+    "slug": "snacks",
+    "description": "Evening crunch and namkeen",
+    "accent": "#ea580c"
+  },
+  {
+    "id": 109,
+    "name": "Biscuits",
+    "slug": "biscuits",
+    "description": "Family packs and tea-time biscuits",
+    "accent": "#92400e"
+  },
+  {
+    "id": 110,
+    "name": "Bakery",
+    "slug": "bakery",
+    "description": "Fresh bread and buns",
+    "accent": "#a16207"
+  },
+  {
+    "id": 111,
+    "name": "Fruits & Vegetables",
+    "slug": "fruits-vegetables",
+    "description": "Daily produce from local markets",
+    "accent": "#16a34a"
+  },
+  {
+    "id": 112,
+    "name": "Personal Care",
+    "slug": "personal-care",
+    "description": "Soap, shampoo and oral care",
+    "accent": "#0f766e"
+  },
+  {
+    "id": 113,
+    "name": "Household",
+    "slug": "household",
+    "description": "Kitchen and home essentials",
+    "accent": "#475569"
+  },
+  {
+    "id": 114,
+    "name": "Cleaning",
+    "slug": "cleaning",
+    "description": "Laundry and home hygiene",
+    "accent": "#2563eb"
+  },
+  {
+    "id": 115,
+    "name": "Grocery",
+    "slug": "grocery",
+    "description": "Pantry staples and condiments",
+    "accent": "#365314"
+  }
+]

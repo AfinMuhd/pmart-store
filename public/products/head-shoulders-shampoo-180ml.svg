@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#ffe4e6"/>
+  <circle cx="300" cy="250" r="120" fill="#9f1239"/>
+  <text x="300" y="262" text-anchor="middle" font-size="64" font-family="Arial" fill="white">H&</text>
+  <text x="300" y="420" text-anchor="middle" font-size="28" font-family="Arial" fill="#14532d">Head &amp; Shoulders Shampoo</text>
+  <text x="300" y="460" text-anchor="middle" font-size="20" font-family="Arial" fill="#3f6212">180 ml</text>
+</svg>
